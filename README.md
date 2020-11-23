@@ -1,7 +1,7 @@
-# Arduino-PAK
+# Program Automatic Meteo Station (AMS)
 
-Собраны различные наработки по ARDUINO IDE
+Программа для Arduino домашней метео станции
 
-### Program Automatic Meteo Station (AMS)
+### Arduino PAK 
 
-Программа 
+Различные программы и наработки по Arduino 

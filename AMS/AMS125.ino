@@ -7,8 +7,8 @@
 #include <Adafruit_Sensor.h>
 
 #define DHTTYPE DHT11  
-#define SKETCH_NAME "Auto Meteo Station"
-#define SKETCH_VERSION "v.1.2.02(f) for Tester version"
+#define SKETCH_NAME "Automatic Meteo Station"
+#define SKETCH_VERSION "v.1.1.2.5(e) for Tester version"
 #define RO_CLEAN_AIR_FACTOR (9.83)
 #define PIN_MQ2         A2
 #define PIN_MQ2_HEATER  13
@@ -72,15 +72,15 @@ void leds() {
 void sens_r(int rain){
   if(rain < thresholdValue){
     Serial.print("Pin A0: ");Serial.println(rain);
-    Serial.println(" * В данный момент: Идет дождь");
-    Serial.println(" * Статус индикатора: Включен");
+    Serial.println("В данный момент: Идет дождь");
+    Serial.println("Статус индикатора: Включен");
     int RL = 1;  
     digitalWrite(bluerainLED, HIGH);
   }
   else {
     Serial.print("Pin A0: ");Serial.println(rain);
-    Serial.println(" * В данный момент: Дождя нет");
-    Serial.println(" * Статус индикатора: Выключен");  
+    Serial.println("В данный момент: Дождя нет");
+    Serial.println("Статус индикатора: Выключен");  
     digitalWrite(bluerainLED, LOW);
     int RL = 0;
   }
@@ -93,14 +93,14 @@ void sens_l(){
   if( raw < 600){
     Serial.print("Pin A2: ");Serial.println(raw);
     Serial.print("Напряжение: ");Serial.println(u);
-    Serial.println(" * Статус индикатора: Выключен");
+    Serial.println("Статус индикатора: Выключен");
     digitalWrite(yellowLED, LOW );
     int LL = 1;
   }
   else {
     Serial.print("Pin A2: ");Serial.println(raw);
     Serial.print("Напряжение: ");Serial.println(u);
-    Serial.println(" * Статус индикатора: Включен");
+    Serial.println("Статус индикатора: Включен");
     digitalWrite(yellowLED, HIGH );
     int LL = 0; 
   }
@@ -128,13 +128,13 @@ void sens_s(){
     Serial.print("LPG: ");
     Serial.print(mq2.readLPG());
     Serial.print(" ppm ");
-    Serial.print(" Methane: ");
+    Serial.print(" Meтан: ");
     Serial.print(mq2.readMethane());
     Serial.print(" ppm ");
-    Serial.print(" Smoke: ");
+    Serial.print(" Задымление: ");
     Serial.print(mq2.readSmoke());
     Serial.print(" ppm ");
-    Serial.print(" Hydrogen: ");
+    Serial.print(" Водоро́д: ");
     Serial.print(mq2.readHydrogen());
     Serial.println(" ppm ");
     delay(100);
@@ -147,30 +147,30 @@ void sens_dh(){
     
     case DHT_OK:
       // выводим показания влажности и температуры
-      Serial.print("Temperature = ");
+      Serial.print("Температура = ");
       Serial.print(dht.getTemperatureC());
       Serial.println(" C \t");
-      Serial.print("Temperature = ");
+      Serial.print("Температура = ");
       Serial.print(dht.getTemperatureK());
       Serial.println(" K \t");
-      Serial.print("Temperature = ");
+      Serial.print("Температура = ");
       Serial.print(dht.getTemperatureF());
       Serial.println(" F \t");
-      Serial.print("Humidity = ");
+      Serial.print("Влажность = ");
       Serial.print(dht.getHumidity());
       Serial.println(" %");
       break;
     // ошибка контрольной суммы
     case DHT_ERROR_CHECKSUM:
-      Serial.println("Checksum error");
+      Serial.println("E01: Checksum error");
       break;
     // превышение времени ожидания
     case DHT_ERROR_TIMEOUT:
-      Serial.println("Time out error");
+      Serial.println("E04: Time out error");
       break;
     // данных нет, датчик не реагирует или отсутствует
     case DHT_ERROR_NO_REPLY:
-      Serial.println("Sensor not connected");
+      Serial.println("E06: Sensor not connected");
       break;
   }
 }
@@ -197,10 +197,7 @@ void loop(){
   delay(10000);
   float bp = bme.readPressure()/133.3224;        // считывание давление ВМР280
   float amp = bme.readAltitude(1013.25);
-  //sens_m(h,t,bp,amp);
-  leds();
-  
-  
-  
+  sens_m(bp,amp);
+  leds();  
   
 }

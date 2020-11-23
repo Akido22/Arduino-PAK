@@ -1,4 +1,4 @@
-# Program Automatic Meteo Station (AMS)
+### Program Automatic Meteo Station (AMS)
 
 Программа для Arduino домашней метео станции
 

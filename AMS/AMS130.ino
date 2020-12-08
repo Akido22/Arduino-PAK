@@ -12,7 +12,7 @@
 #define SKETCH_VERSION "v.1.3.0(b1) for Tester version"
 #define RO_CLEAN_AIR_FACTOR (9.83)
 #define PIN_MQ2         A2
-#define PIN_MQ2_HEATER  13
+#define PIN_MQ2_HEATER  13          // MQ2 pезерв для нагревателя, в итоге работает постоянно
 
 
 int onLED = 13;                     // LED индикатор питания(маяк ON/OFF)

@@ -1,0 +1,253 @@
+100,0100,DRIVER AIR BAG CIRCUIT MALFUNCTION,Цепь надувной подушки безопасности водителя неисправна
+101,0101,DRIVER AIR BAG CIRCUIT RANGE/PERF,Сигнал цепи надувной подушки выходит за доп. диапазон
+102,0102,DRIVER AIR BAG CIRCUIT LOW INPUT,Сигнал цепи надувной подушки всегда в низком положении
+103,0103,DRIVER AIR BAG CIRCUIT HIGH INPUT,Сигнал цепи надувной подушки всегда в высоком положении
+105,0105,PASSENGER AIR BAG CIRCUIT MALFUNCTION,Цепь надувной подушки безопасности пассажира неисправна
+106,0106,PASSENGER AIR BAG CIRCUIT RANGE/PERF,Сигнал цепи надувной подушки выходит за доп. диапазон
+107,0107,PASSENGER AIR BAG CIRCUIT LOW INPUT,Сигнал цепи надувной подушки всегда в низком положении
+108,0108,PASSENGER AIR BAG CIRCUIT HIGH INPUT,Сигнал цепи надувной подушки всегда в высоком положении
+110,0110,DRVR-SIDE AIR BAG CIRCUIT MALFUNCTION,Цепь надувной боковой подушки без. водителя неисправна
+111,0111,DRVR-SIDE AIR BAG CIRCUIT RANGE/PERF,Сигнал цепи надувной подушки выходит за доп. диапазон
+112,0112,DRVR-SIDE AIR BAG CIRCUIT LOW INPUT,Сигнал цепи надувной подушки всегда в низком положении
+113,0113,DRVR-SIDE AIR BAG CIRCUIT HIGH INPUT,Сигнал цепи надувной подушки всегда в высоком положении
+115,0115,PSNGR-SIDE AIR BAG CIRCUIT MALFUNCTION,Цепь надувной боковой подушки без. пассажира неисправна
+116,0116,PSNGR-SIDE AIR BAG CIRCUIT RANGE/PERF,Сигнал цепи надувной подушки выходит за доп. диапазон
+117,0117,PSNGR-SIDE AIR BAG CIRCUIT LOW INPUT,Сигнал цепи надувной подушки всегда в низком положении
+118,0118,PSNGR-SIDE AIR BAG CIRCUIT HIGH INPUT,Сигнал цепи надувной подушки всегда в высоком положении
+120,0120,SEATBELT #1 SW MON. CIRCUIT MALFUNCTION,Защелка ремня безопасности №1 неисправен
+121,0121,SEATBELT #1 SW MON. CIRCUIT RANGE/PERF,Защелка ремня безопасности №1 работает медленно
+122,0122,SEATBELT #1 SW MON. CIRCUIT LOW INPUT,Защелка ремня безопасности №1 имеет низкий вход
+123,0123,SEATBELT #1 SW MON. CIRCUIT HIGH INPUT,Защелка ремня безопасности №1 имеет высокий вход
+125,0125,SEATBELT #2 SW MON. CIRCUIT MALFUNCTION,Защелка ремня безопасности №2 неисправен
+126,0126,SEATBELT #2 SW MON. CIRCUIT RANGE/PERF,Защелка ремня безопасности №2 работает медленно
+127,0127,SEATBELT #2 SW MON. CIRCUIT LOW INPUT,Защелка ремня безопасности №2 имеет низкий вход
+128,0128,SEATBELT #2 SW MON. CIRCUIT HIGH INPUT,Защелка ремня безопасности №2 имеет высокий вход
+130,0130,SEATBELT #1 RETRACT CIRCUIT MALFUNCTION,Механизм натяжения ремня безопасности №1 неисправен
+131,0131,SEATBELT #1 RETRACT CIRCUIT RANGE/PERF,Механизм натяжения ремня безопасности №1 работает медленно
+132,0132,SEATBELT #1 RETRACT CIRCUIT LOW INPUT,Механизм натяжения ремня безопасности №1 имеет низкий вход
+133,0133,SEATBELT #1 RETRACT CIRCUIT HIGH INPUT,Механизм натяжения ремня безопасности №1 имеет высокий вход
+135,0135,SEATBELT #2 RETRACT CIRCUIT MALFUNCTION,Механизм натяжения ремня безопасности №2 неисправен
+136,0136,SEATBELT #2 RETRACT CIRCUIT RANGE/PERF,Механизм натяжения ремня безопасности №2 работает медленно
+137,0137,SEATBELT #2 RETRACT CIRCUIT LOW INPUT,Механизм натяжения ремня безопасности №2 имеет низкий вход
+138,0138,SEATBELT #2 RETRACT CIRCUIT HIGH INPUT,Механизм натяжения ремня безопасности №2 имеет высокий вход
+300,0300,COOLING FAN #1 CIRCUIT MALFUNCTION,Цепь вентилятора охлаждения №1 не работает
+301,0301,COOLING FAN #1 CIRCUIT RANGE/PERF,Цепь вентилятора охлаждения №1 работает медленно
+302,0302,COOLING FAN #1 CIRCUIT LOW INPUT,Цепь вентилятора охлаждения №1 имеет низкий сигнал
+303,0303,COOLING FAN #1 CIRCUIT HIGH INPUT,Цепь вентилятора охлаждения №1 имеет высокий сигнал
+305,0305,COOLING FAN #2 CIRCUIT MALFUNCTION,Цепь вентилятора охлаждения №2 не работает
+306,0306,COOLING FAN #2 CIRCUIT RANGE/PERF,Цепь вентилятора охлаждения №2 работает медленно
+307,0307,COOLING FAN #2 CIRCUIT LOW INPUT,Цепь вентилятора охлаждения №2 имеет низкий сигнал
+308,0308,COOLING FAN #2 CIRCUIT HIGH INPUT,Цепь вентилятора охлаждения №2 имеет высокий сигнал
+310,0310,A/C CLUTCH CIRCUIT MALFUNCTION,Цепь включения кондиционера неисправна
+311,0311,A/C CLUTCH CIRCUIT RANGE/PERF,Цепь включения кондиционера работает медленно
+312,0312,A/C CLUTCH CIRCUIT LOW INPUT,Цепь включения кондиционера имеет низкий сигнал
+313,0313,A/C CLUTCH CIRCUIT HIGH INPUT,Цепь включения кондиционера имеет высокий сигнал
+315,0315,A/C PRESSURE #1 CIRCUIT MALFUNCTION,Цепь компрессора кондиционера №1 неисправна
+316,0316,A/C PRESSURE #1 CIRCUIT RANGE/PERF,Цепь компрессора кондиционера №1 работает медленно
+317,0317,A/C PRESSURE #1 CIRCUIT LOW INPUT,Цепь компрессора кондиционера №1 имеет низкий сигнал
+318,0318,A/C PRESSURE #1 CIRCUIT HIGH INPUT,Цепь компрессора кондиционера №1 имеет высокий сигнал
+320,0320,A/C PRESSURE #2 CIRCUIT MALFUNCTION,Цепь компрессора кондиционера №2 неисправна
+321,0321,A/C PRESSURE #2 CIRCUIT RANGE/PERF,Цепь компрессора кондиционера №2 работает медленно
+322,0322,A/C PRESSURE #2 CIRCUIT LOW INPUT,Цепь компрессора кондиционера №2 имеет низкий сигнал
+323,0323,A/C PRESSURE #2 CIRCUIT HIGH INPUT,Цепь компрессора кондиционера №2 имеет высокий сигнал
+325,0325,A/C PRESS REF (SIG) CIRCUIT MALFUNCTION,
+326,0326,A/C PRESS REF (SIG) CIRCUIT RANGE/PERF,
+327,0327,A/C PRESS REF (SIG) CIRCUIT LOW INPUT,
+328,0328,A/C PRESS REF (SIG) CIRCUIT HIGH INPUT,
+330,0330,OUTSIDE AIR TEMP CIRCUIT MALFUNCTION,Цепь датчика температуры внешнего воздуха неисправна
+331,0331,OUTSIDE AIR TEMP CIRCUIT RANGE/PERF,Цепь датчика температуры работает медленно
+332,0332,OUTSIDE AIR TEMP CIRCUIT LOW INPUT ,Цепь датчика температуры имеет низкий сигнал
+333,0333,OUTSIDE AIR TEMP CIRCUIT HIGH INPUT ,Цепь датчика температуры имеет высокий сигнал
+335,0335,IN AIR TEMP SENS #1 CIRCUIT MALFUNCTION ,Цепь датчика температуры внутреннего воздуха №1 неисправ.
+336,0336,IN AIR TEMP SENS #1 CIRCUIT RANGE/PERF ,Цепь датчика температуры №1 работает медленно
+337,0337,IN AIR TEMP SENS #1 CIRCUIT LOW INPUT ,Цепь датчика температуры №1 имеет низкий сигнал
+338,0338,IN AIR TEMP SENS #1 CIRCUIT HIGH INPUT ,Цепь датчика температуры №1 имеет высокий сигнал
+340,0340,IN AIR TEMP SENS #2 CIRCUIT MALFUNCTION ,Цепь датчика температуры внутреннего воздуха №2 неисправ.
+341,0341,IN AIR TEMP SENS #2 CIRCUIT RANGE/PERF ,Цепь датчика температуры №2 работает медленно
+342,0342,IN AIR TEMP SENS #2 CIRCUIT LOW INPUT ,Цепь датчика температуры №2 имеет низкий сигнал
+343,0343,IN AIR TEMP SENS #2 CIRCUIT HIGH INPUT ,Цепь датчика температуры №2 имеет высокий сигнал
+345,0345,SOLAR LOAD SENSOR 1 CIRCUIT MALFUNCTION ,Цепь датчика освещенности (солнечных батарей) №1 неиспр.
+346,0346,SOLAR LOAD SENSOR 1 CIRCUIT RANGE/PERF ,Цепь датчика освещенности №1 работает медленно
+347,0347,SOLAR LOAD SENSOR 1 CIRCUIT LOW INPUT ,Цепь датчика освещенности №1 имеет низкий сигнал
+348,0348,SOLAR LOAD SENSOR 1 CIRCUIT HIGH INPUT ,Цепь датчика освещенности №1 имеет высокий сигнал
+350,0350,SOLAR LOAD SENSOR 2 CIRCUIT MALFUNCTION ,Цепь датчика освещенности (солнечных батарей) №2 неиспр.
+351,0351,SOLAR LOAD SENSOR 2 CIRCUIT RANGE/PERF ,Цепь датчика освещенности №2 работает медленно
+352,0352,SOLAR LOAD SENSOR 2 CIRCUIT LOW INPUT ,Цепь датчика освещенности №2 имеет низкий сигнал
+353,0353,SOLAR LOAD SENSOR 2 CIRCUIT HIGH INPUT ,Цепь датчика освещенности №2 имеет высокий сигнал
+355,0355,BLOWER MTR #1 SPEED CIRCUIT MALFUNCTION ,Цепь управления скоростью вентилятора №1 неисправна
+356,0356,BLOWER MTR #1 SPEED CIRCUIT RANGE/PERF ,Цепь управления вентилятора №1 работает медленно
+357,0357,BLOWER MTR #1 SPEED CIRCUIT LOW INPUT ,Цепь управления вентилятора №1 имеет низкий сигнал
+358,0358,BLOWER MTR #1 SPEED CIRCUIT HIGH INPUT ,Цепь управления вентилятора №1 имеет высокий сигнал
+360,0360,BLOWER MTR #1 POWER CIRCUIT MALFUNCTION ,Цепь питания вентилятора №1 неисправна
+361,0361,BLOWER MTR #1 POWER CIRCUIT RANGE/PERF ,Цепь питания вентилятора №1 выходит за доп. диапазон
+362,0362,BLOWER MTR #1 POWER CIRCUIT LOW INPUT ,Цепь питания вентилятора №1 имеет низкий сигнал
+363,0363,BLOWER MTR #1 POWER CIRCUIT HIGH INPUT ,Цепь питания вентилятора №1 имеет высокий сигнал
+365,0365,BLOWER MTR #1 GND CIRCUIT MALFUNCTION ,Цепь заземления вентилятора №1 неисправна
+366,0366,BLOWER MTR #1 GND CIRCUIT RANGE/PERF ,Цепь заземления вентилятора №1 выходит за доп. диапазон
+367,0367,BLOWER MTR #1 GND CIRCUIT LOW INPUT ,Цепь заземления вентилятора №1 имеет низкий сигнал
+368,0368,BLOWER MTR #1 GND CIRCUIT HIGH INPUT ,Цепь заземления вентилятора №1 имеет высокий сигнал
+370,0370,A/C HIGH SIDE TEMP SENSOR MALFUNCTION ,Датчик температуры высшей точки кондиционера неисправен 
+371,0371,A/C HIGH SIDE TEMP SENSOR RANGE/PERF ,Сигнал датчика температуры выходит за допустимый диапазон
+372,0372,A/C HIGH SIDE TEMP SENSOR LOW INPUT ,Сигнал датчика температуры имеет низкий уровень
+373,0373,A/C HIGH SIDE TEMP SENSOR HIGH INPUT ,Сигнал датчика температуры имеет высокий уровень
+375,0375,A/C EVAP INLET TEMP SENSOR MALFUNCTION ,Датчик температуры на входе вент. кондиц. неисправен
+376,0376,A/C EVAP INLET TEMP SENSOR RANGE/PERF ,Сигнал датчика температуры выходит за допустимый диапазон
+377,0377,A/C EVAP INLET TEMP SENSOR LOW INPUT ,Сигнал датчика температуры имеет низкий уровень
+378,0378,A/C EVAP INLET TEMP SENSOR HIGH INPUT ,Сигнал датчика температуры имеет высокий уровень
+380,0380,A/C REFRIGERANT UNDERPRESSURE ,Давление хладагента кондиционера недостаточно
+381,0381,A/C REFRIGERANT OVERPRESSURE ,Давление хладагента кондиционера избыточно
+400,0400,AIR FLOW CONTROL #1 DEFROST MALFUNCTION,Упр воздушным потоком размораживателя №1 неисправно
+401,0401,AIR FLOW CONTROL #1 DEFROSTRANGE/PERF,Упр. размораживателя №1 работает медленно
+402,0402,AIR FLOW CONTROL #1 DEFROST LOW INPUT,Упр. размораживателя №1 имеет низкий сигнал
+403,0403,AIR FLOW CONTROL #1 DEFROST HIGH INPUT,Упр. размораживателя №1 имеет высокий сигнал
+405,0405,AIR FLOW CONTROL #2 HEATER MALFUNCTION,Упр. воздушным потоком нагревателя №2 неисправно
+406,0406,AIR FLOW CONTROL #2 HEATER RANGE/PERF,Упр. нагревателя №2 работает медленно
+407,0407,AIR FLOW CONTROL #2 HEATER LOW INPUT,Упр. нагревателя №2 имеет низкий сигнал
+408,0408,AIR FLOW CONTROL #2 HEATER HIGH INPUT,Упр. нагревателя №2 имеет высокий сигнал
+410,0410,AIR FLOW CONTROL #3 BLEND MALFUNCTION,Упр. воздушным потоком смесителя №3 неисправно
+411,0411,AIR FLOW CONTROL #3 BLEND RANGE/PERF,Упр. смесителя №3 работает медленно
+412,0412,AIR FLOW CONTROL #3 BLEND LOW INPUT,Упр. смесителя №3 имеет низкий сигнал
+413,0413,AIR FLOW CONTROL #3 BLEND HIGH INPUT,Упр. смесителя №3 имеет высокий сигнал
+415,0415,AIR FLOW CONTROL #4 VENT MALFUNCTION,Упр. воздушным потоком вентиляции №4 неисправно
+416,0416,AIR FLOW CONTROL #4 VENT RANGE/PERF,Упр. вентиляции №4 работает медленно
+417,0417,AIR FLOW CONTROL #4 VENT LOW INPUT,Упр. вентиляции №4 имеет низкий сигнал
+418,0418,AIR FLOW CONTROL #4 VENT HIGH INPUT,Упр. вентиляции №4 имеет высокий сигнал
+420,0420,AIR FLOW CONTROL #5 A/C MALFUNCTION,Упр. воздушным потоком кондиционирования №5 неисправно
+421,0421,AIR FLOW CONTROL #5 A/C RANGE/PERF,Упр. кондиционирования №5 работает медленно
+422,0422,AIR FLOW CONTROL #5 A/C LOW INPUT,Упр. кондиционирования №5 имеет низкий сигнал
+423,0423,AIR FLOW CONTROL #5 A/C HIGH INPUT,Упр. кондиционирования №5 имеет высокий сигнал
+425,0425,AIR FLOW CONTROL #6 RECIRC MALFUNCTION,Упр. воздушным потоком рециркуляции №6 неисправно
+426,0426,AIR FLOW CONTROL #6 RECIRC RANGE/PERF,Упр. рециркуляции №6 работает медленно
+427,0427,AIR FLOW CONTROL #6 RECIRC LOW INPUT,Упр. рециркуляции №6 имеет низкий сигнал
+428,0428,AIR FLOW CONTROL #6 RECIRC HIGH INPUT,Упр. рециркуляции №6 имеет высокий сигнал
+430,0430,REAR DEFROST CIRCUIT MALFUNCTION,Цепь размораживателя заднего стекла неисправна
+431,0431,REAR DEFROST CIRCUIT RANGE/PERF,Цепь размораживателя заднего стекла работает медленно
+432,0432,REAR DEFROST CIRCUIT LOW INPUT,Цепь размораживателя заднего стекла имеет низкий сигнал
+433,0433,REAR DEFROST CIRCUIT HIGH INPUT,Цепь размораживателя заднего стекла имеет высокий сигнал
+435,0435,A/C REQUEST CIRCUIT MALFUNCTION,Цепь запроса включения кондиционера неисправна
+436,0436,A/C REQUEST CIRCUIT RANGE/PERF,Цепь запроса включения кондиционера работает медленно
+437,0437,A/C REQUEST CIRCUIT LOW INPUT,Цепь запроса включения кондиционера имеет низкий сигнал
+438,0438,A/C REQUEST CIRCUIT HIGH INPUT,Цепь запроса включения кондиционера
+440,0440,CONTROL HEAD #1 FEEDBACK MALFUNCTION,
+441,0441,CONTROL HEAD #1 FEEDBACK RANGE/PERF,
+442,0442,CONTROL HEAD #1 FEEDBACK LOW INPUT,
+443,0443,CONTROL HEAD #1 FEEDBACK HIGH INPUT,
+445,0445,CONTROL HEAD #FEEDBACK MALFUNCTION,
+446,0446,CONTROL HEAD #FEEDBACK RANGE/PERF,
+447,0447,CONTROL HEAD #2 FEEDBACK LOW INPUT,
+448,0448,CONTROL HEAD #2 FEEDBACK HIGH INPUT,
+500,0500,RH TURN SIGNAL CIRCUIT MALFUNCTION,Цепь правого указателя поворота неисправна
+501,0501,RH TURN SIGNAL CIRCUIT RANGE/PERF,Цепь правого указателя поворота работает медленно
+502,0502,RH TURN SIGNAL CIRCUIT LOW INPUT,Цепь правого указателя поворота имеет низкий сигнал
+502,0503,RH TURN SIGNAL CIRCUIT HIGH INPUT,Цепь правого указателя поворота имеет высокий сигнал
+505,0505,LH TURN SIGNAL CIRCUIT MALFUNCTION,Цепь левого указателя поворота неисправна
+506,0506,LH TURN SIGNAL CIRCUIT RANGE/PERF,Цепь левого указателя поворота работает медленно
+507,0507,LH TURN SIGNAL CIRCUIT LOW INPUT,Цепь левого указателя поворота имеет низкий сигнал
+508,0508,LH TURN SIGNAL CIRCUIT HIGH INPUT,Цепь левого указателя поворота имеет высокий сигнал
+510,0510,HEADLAMP INDICATORS CIRCUIT MALFUNCTION,Цепь индикатора головного освещения неисправна
+511,0511,HEADLAMP INDICATORS CIRCUIT RANGE/PERF,Цепь индикатора головного освещения работает медленно
+512,0512,HEADLAMP INDICATORS CIRCUIT LOW INPUT,Цепь индикатора головного освещения имеет низкий сигнал
+513,0513,HEADLAMP INDICATORS CIRCUIT HIGH INPUT,Цепь индикатора головного освещения имеет высокий сигнал
+515,0515,SPEEDOMETER CIRCUIT MALFUNCTION,Цепь спидометра неисправна
+516,0516,SPEEDOMETER CIRCUIT RANGE/PERF,Цепь спидометра работает медленно
+517,0517,SPEEDOMETER CIRCUIT LOW INPUT,Цепь спидометра имеет низкий сигнал
+518,0518,SPEEDOMETER CIRCUIT HIGH INPUT,Цепь спидометра имеет высокий сигнал
+520,0520,TACHOMETER CIRCUIT MALFUNCTION,Цепь тахометра неисправна
+521,0521,TACHOMETER CIRCUIT RANGE/PERF,Цепь тахометра работает медленно
+522,0522,TACHOMETER CIRCUIT LOW INPUT,Цепь тахометра имеет низкий сигнал
+523,0523,TACHOMETER CIRCUIT HIGH INPUT,Цепь тахометра имеет высокий сигнал
+525,0525,TEMPERATURE GAUGES CIRCUIT MALFUNCTION,Цепь измерителей температуры неисправна
+526,0526,TEMPERATURE GAUGES CIRCUIT RANGE/PERF,Цепь измерителей температуры работает медленно
+527,0527,TEMPERATURE GAUGES CIRCUIT LOW INPUT,Цепь измерителей температуры имеет низкий сигнал
+528,0528,TEMPERATURE GAUGES CIRCUIT HIGH INPUT,Цепь измерителей температуры имеет высокий сигнал
+530,0530,FUEL LEVEL GAUGE CIRCUIT MALFUNCTION,Цепь измерителя уровня топлива неисправна
+531,0531,FUEL LEVEL GAUGE CIRCUIT RANGE/PERF,Цепь измерителя уровня топлива работает медленно
+532,0532,FUEL LEVEL GAUGE CIRCUIT LOW INPUT,Цепь измерителя уровня топлива имеет низкий сигнал
+533,0533,FUEL LEVEL GAUGE CIRCUIT HIGH INPUT,Цепь измерителя уровня топлива имеет высокий сигнал
+535,0535,TURBO/SUPER BOOST GAUGE MALFUNCTION,Измеритель турбо/ супер наддува неисправен
+536,0536,TURBO/SUPER BOOST GAUGE RANGE/PERF,Измеритель турбо/ супер наддува работает медленно
+537,0537,TURBO/SUPER BOOST GAUGE LOW INPUT,Измеритель турбо/ супер наддува имеет низкий сигнал
+538,0538,TURBO/SUPER BOOST GAUGE HIGH INPUT,Измеритель турбо/ супер наддува имеет высокий сигнал
+540,0540,FASTEN SEATBELT INDICATOR MALFUNCTION,Индикатор защелкивания ремня безопасности неисправен
+541,0541,FASTEN SEATBELT INDICATOR RANGE/PERF,Индикатор защелкивания ремня безопасности работает медленно
+542,0542,FASTEN SEATBELT INDICATOR LOW INPUT,Индикатор защелкивания ремня безопасности имеет низкий сигнал
+543,0543,FASTEN SEATBELT INDICATOR HIGH INPUT,Индикатор защелкивания ремня безопасности имеет выс. сигнал
+545,0545,DOOR AJAR #1 INDICATOR MALFUNCTION,Индикатор приоткрытой двери №1 неисправен
+546,0546,DOOR AJAR #1 INDICATOR RANGE/PERF,Индикатор приоткрытой двери №1 работает медленно
+547,0547,DOOR AJAR #1 INDICATOR LOW INPUT,Индикатор приоткрытой двери №1 имеет низкий сигнал
+548,0548,DOOR AJAR #1 INDICATOR HIGH INPUT,Индикатор приоткрытой двери №1 имеет высокий сигнал
+550,0550,DOOR AJAR #2 INDICATOR MALFUNCTION,Индикатор приоткрытой двери №2 неисправен
+551,0551,DOOR AJAR #2 INDICATOR RANGE/PERF,Индикатор приоткрытой двери №2 работает медленно
+552,0552,DOOR AJAR #2 INDICATOR LOW INPUT,Индикатор приоткрытой двери №2 имеет низкий сигнал
+553,0553,DOOR AJAR #2 INDICATOR HIGH INPUT,Индикатор приоткрытой двери №2 имеет высокий сигнал
+555,0555,BRAKE INDICATOR CIRCUIT MALFUNCTION,Цепь индикатора торможения неисправна
+556,0556,BRAKE INDICATOR CIRCUIT RANGE/PERF,Цепь индикатора торможения работает медленно
+557,0557,BRAKE INDICATOR CIRCUIT LOW INPUT,Цепь индикатора торможения имеет низкий сигнал
+558,0558,BRAKE INDICATOR CIRCUIT HIGH INPUT,Цепь индикатора торможения имеет высокий сигнал
+560,0560,AIR BAG LAMP #1 CIRCUIT MALFUNCTION,Цепь лампы воздушной подушки №1 неисправна
+561,0561,AIR BAG LAMP #1 CIRCUIT RANGE/PERF,Цепь лампы воздушной подушки №1 работает медленно
+562,0562,AIR BAG LAMP #1 CIRCUIT LOW INPUT,Цепь лампы воздушной подушки №1 имеет низкий сигнал
+563,0563,AIR BAG LAMP #1 CIRCUIT HIGH INPUT,Цепь лампы воздушной подушки №1 имеет высокий сигнал
+565,0565,SECURITY OP INFO CIRCUIT MALFUNCTION,Цепь информации о секретных опциях неисправна
+566,0566,SECURITY OP INFO CIRCUIT RANGE/PERF,Цепь информации о секретных опциях работает медленно
+567,0567,SECURITY OP INFO CIRCUIT LOW INPUT,Цепь информации о секретных опциях имеет низкий сигнал
+568,0568,SECURITY OP INFO CIRCUIT HIGH INPUT,Цепь информации о секретных опциях имеет высокий сигнал
+600,0600,OPTION CONFIG ERROR,Конфигурация опций ошибочна
+601,0601,KAM RESET,Сброс «КАМ» датчика
+602,0602,OSC WATCHDOG COP MALFUNCTION,Генератор управляющий системой «WATCHDOG» неисправен
+603,0603,EEPROM WRITE ERROR,Ошибка записи во FLASH-пзу
+604,0604,EEPROM CALIBRATION ERROR,Ошибка ПЗУ калибровок
+605,0605,EEPROM CHECKSUM ERROR,Ошибка контрольной суммы ПЗУ
+606,0606,RAM MALFUNCTION,Оперативное запоминающее устройство неисправно
+607,0607,INTERNAL ERROR,Внутренняя ошибка
+608,0608,INITIALIZATION ERROR,Ошибка инициализации
+800,0800,DEVICE POWER #1 CIRCUIT MALFUNCTION,Цепь блока питания №1 неисправна
+801,0801,DEVICE POWER #1 CIRCUIT RANGE/PERF,Сигнал цепи блока питания №1 выходит за допустимые пределы
+802,0802,DEVICE POWER #1 CIRCUIT LOW INPUT,Сигнал цепи блока питания №1 всегда низкого уровня
+803,0803,DEVICE POWER #1 CIRCUIT HIGH INPUT,Сигнал цепи блока питания №1 всегда высокого уровня
+805,0805,DEVICE POWER #2 CIRCUIT MALFUNCTION,Цепь блока питания №2 неисправна
+806,0806,DEVICE POWER #2 CIRCUIT RANGE/PERF,Сигнал цепи блока питания №2 выходит за допустимые пределы
+807,0807,DEVICE POWER #2 CIRCUIT LOW INPUT,Сигнал цепи блока питания №2 всегда низкого уровня
+808,0808,DEVICE POWER #2 CIRCUIT HIGH INPUT,Сигнал цепи блока питания №2 всегда высокого уровня
+810,0810,DEVICE POWER #3 CIRCUIT MALFUNCTION,Цепь блока питания №3 неисправна
+811,0811,DEVICE POWER #3 CIRCUIT RANGE/PERF,Сигнал цепи блока питания №3 выходит за допустимые пределы
+812,0812,DEVICE POWER #3 CIRCUIT LOW INPUT,Сигнал цепи блока питания №3 всегда низкого уровня
+813,0813,DEVICE POWER #3 CIRCUIT HIGH INPUT,Сигнал цепи блока питания №3 всегда высокого уровня
+815,0815,DEVICE GROUND #1 CIRCUIT MALFUNCTION,Цепь заземления устройств №1 неисправна
+816,0816,DEVICE GROUND #1 CIRCUIT RANGE/PERF,Сигнал цепи заземления №1 выходит за допустимые пределы
+817,0817,DEVICE GROUND #1 CIRCUIT LOW INPUT,Сигнал цепи заземления №1 всегда низкого уровня
+818,0818,DEVICE GROUND #1 CIRCUIT HIGH INPUT,Сигнал цепи заземления №1 всегда высокого уровня
+820,0820,DEVICE GROUND #2 CIRCUIT MALFUNCTION,Цепь заземления устройств №2 неисправна
+821,0821,DEVICE GROUND #2 CIRCUIT RANGE/PERF,Сигнал цепи заземления №2 выходит за допустимые пределы
+822,0822,DEVICE GROUND #2 CIRCUIT LOW INPUT,Сигнал цепи заземления №2 всегда низкого уровня
+823,0823,DEVICE GROUND #2 CIRCUIT HIGH INPUT,Сигнал цепи заземления №2 всегда высокого уровня
+825,0825,DEVICE GROUND #3 CIRCUIT MALFUNCTION,Цепь заземления устройств №3 неисправна
+826,0826,DEVICE GROUND #3 CIRCUIT RANGE/PERF,Сигнал цепи заземления №3 выходит за допустимые пределы
+827,0827,DEVICE GROUND #3 CIRCUIT LOW INPUT,Сигнал цепи заземления №3 всегда низкого уровня
+828,0828,DEVICE GROUND #3 CIRCUIT HIGH INPUT,Сигнал цепи заземления №3 всегда высокого уровня
+830,0830,IGNITION 0 CIRCUIT MALFUNCTION,Цепь зажигания 0 неисправна
+831,0831,IGNITION 0 CIRCUIT RANGE/PERF,Цепь зажигания 0 работает медленно
+832,0832,IGNITION 0 CIRCUIT LOW INPUT,Цепь зажигания 0 имеет низкий уровень
+833,0833,IGNITION 0 CIRCUIT HIGH INPUT,Цепь зажигания 0 имеет высокий уровень
+836,0835,IGNITION 1 CIRCUIT MALFUNCTION,Цепь зажигания 1 неисправна
+836,0836,IGNITION 1 CIRCUIT RANGE/PERF,Цепь зажигания 1 работает медленно
+837,0837,IGNITION 1 CIRCUIT LOW INPUT,Цепь зажигания 1 имеет низкий уровень
+838,0838,IGNITION 1 CIRCUIT HIGH INPUT,Цепь зажигания 1 имеет высокий уровень
+840,0840,IGNITION 3 CIRCUIT MALFUNCTION,Цепь зажигания 3 неисправна
+841,0841,IGNITION 3 CIRCUIT RANGE/PERF,Цепь зажигания 3 работает медленно
+842,0842,IGNITION 3 CIRCUIT LOW INPUT,Цепь зажигания 3 имеет низкий уровень
+843,0843,IGNITION 3 CIRCUIT HIGH,Цепь зажигания 3 имеет высокий уровень
+845,0845,INPUT DEVICE 5 VOLT REF CIRCUIT MALFUNCTION,5-и вольтовый блок питания неисправен
+846,0846,DEVICE 5 VOLT REF CIRCUIT RANGE/PERF,Сигнал 5- В. блока питания выходит из допустимого диапазона
+847,0847,DEVICE 5 VOLT REF CIRCUIT LOW INPUT,Сигнал 5- В. блока питания всегда низкого уровня
+848,0848,DEVICE 5 VOLT REF CIRCUIT HIGH INPUT,Сигнал 5- В. блока питания всегда высокого уровня
+850,0850,(CLEAN)BATTERY CIRCUIT MALFUNCTION,(Чистая) Цепь аккумуляторной батареи неисправна
+851,0851,(CLEAN)BATTERY CIRCUIT RANGE/PERF,(Чистая) Цепь аккумуляторной батареи работает плохо
+852,0852,(CLEAN)BATTERY CIRCUIT LOW INPUT,(Чистая) Цепь аккумуляторной батареи имеет низкий уровень
+853,0853,(CLEAN)BATTERY CIRCUIT HIGH INPUT,(Чистая) Цепь аккумуляторной батареи имеет высокий уровень
+855,0855,(DIRTY)BATTERY CIRCUIT MALFUNCTION,(Грязная) Цепь аккумуляторной батареи неисправна
+856,0856,(DIRTY)BATTERY CIRCUIT RANGE/PERF,(Грязная) Цепь аккумуляторной батареи работает плохо
+857,0857,(DIRTY)BATTERY CIRCUIT LOW INPUT,(Грязная) Цепь аккумуляторной батареи имеет низкий уровень
+858,0858,(DIRTY)BATTERY CIRCUIT HIGH INPUT ,(Грязная) Цепь аккумуляторной батареи имеет высокий уровень
+860,0860,SYSTEM VOLTAGE HIGH,Высокое напряжение питания системы
+856,0856,SYSTEM VOLTAGE LOW,Низкое напряжение питания системы

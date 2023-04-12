@@ -1,8 +1,3 @@
-### Program Automatic Meteo Station (AMS)
-
-Программа для Arduino домашней метео станции
-
-### Arduino PAK 
-
-Различные программы и наработки по Arduino 
-AMS 1.5
+# NarodMon_Rpi3
+Программа для передачи температуры с датчика DS18B20 для RaspberryPi 3
+Написана на Python3

@@ -56,7 +56,7 @@ void setup()
   pinMode(smokeA1, INPUT);
   pinMode(pinPhotoA2, INPUT);
   mq2.heaterPwrHigh();            // запуск датчика MQ-2 нагревателя
-  lcd.begin();                    // инициализация lcd
+  lcd.begin();                    // инициализация lcd // lcd.init() при выводе ошибки
   lcd.createChar(1, symb_grad);   // регистрируем собственный символ с кодом 1
   dht.begin();                    // запуск датчика DHT11
   bme.begin(0x76);                // запуск датчика BMP280 - 0x76 адрес                   
